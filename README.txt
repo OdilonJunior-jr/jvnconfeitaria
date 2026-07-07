@@ -1,9 +1,7 @@
-JVN Bio Link - ícones centralizados e menores
+JVN Bio Link - botão de fechar ajustado
 
-Ajustes feitos:
-- ícones + e - centralizados dentro dos botões
-- botões diminuídos
-- quantidade centralizada
-- ajuste aplicado no modal do produto
-- ajuste aplicado no carrinho
-- visual menos estourado e mais limpo
+Ajuste feito:
+- botão de fechar com o mesmo padrão visual dos botões -/+
+- ícone centralizado
+- botão menor
+- visual mais limpo e alinhado
