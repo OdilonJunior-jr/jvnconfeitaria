@@ -1,0 +1,7 @@
+<svg width="180" height="180" viewBox="0 0 180 180" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <circle cx="90" cy="90" r="72" stroke="url(#g)" stroke-width="2"/>
+  <text x="56" y="98" font-family="Georgia, serif" font-size="64" fill="url(#g)">L</text>
+  <text x="86" y="118" font-family="Georgia, serif" font-size="60" fill="url(#g)">G</text>
+  <path d="M130 56c8 12 3 24-7 29 9-2 15-9 16-19m-18 22c-8 10-20 13-30 11 8 5 20 5 30-1" stroke="#a56a4a" stroke-width="1.5" stroke-linecap="round"/>
+  <defs><linearGradient id="g" x1="27" y1="26" x2="154" y2="151"><stop stop-color="#d99a3c"/><stop offset=".5" stop-color="#8d563e"/><stop offset="1" stop-color="#e2ad58"/></linearGradient></defs>
+</svg>
