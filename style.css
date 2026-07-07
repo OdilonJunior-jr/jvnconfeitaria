@@ -1770,3 +1770,120 @@ footer {
     font-size: 15px !important;
   }
 }
+
+
+/* ===== Ajuste fino: ícones + e - centralizados e menores ===== */
+
+/* Modal do produto */
+.modal-counter {
+  gap: 8px !important;
+}
+
+.modal-counter button {
+  width: 34px !important;
+  height: 34px !important;
+  min-width: 34px !important;
+  min-height: 34px !important;
+  border-radius: 12px !important;
+  padding: 0 !important;
+  display: grid !important;
+  place-items: center !important;
+  text-align: center !important;
+  line-height: 1 !important;
+  font-size: 18px !important;
+  font-weight: 700 !important;
+}
+
+#modalMinus,
+#modalPlus {
+  display: grid !important;
+  place-items: center !important;
+  line-height: 1 !important;
+}
+
+#modalQty {
+  min-width: 26px !important;
+  width: 26px !important;
+  height: 34px !important;
+  display: grid !important;
+  place-items: center !important;
+  font-size: 15px !important;
+  font-weight: 700 !important;
+  line-height: 1 !important;
+  padding: 0 !important;
+}
+
+/* Carrinho */
+.cart-item-actions {
+  gap: 8px !important;
+}
+
+.cart-item-actions button {
+  width: 34px !important;
+  height: 34px !important;
+  min-width: 34px !important;
+  min-height: 34px !important;
+  border-radius: 12px !important;
+  padding: 0 !important;
+  display: grid !important;
+  place-items: center !important;
+  text-align: center !important;
+  line-height: 1 !important;
+  font-size: 18px !important;
+  font-weight: 700 !important;
+}
+
+.cart-item-actions output {
+  width: 26px !important;
+  min-width: 26px !important;
+  height: 34px !important;
+  display: grid !important;
+  place-items: center !important;
+  font-size: 15px !important;
+  font-weight: 700 !important;
+  line-height: 1 !important;
+  padding: 0 !important;
+}
+
+/* Mobile */
+@media (max-width: 768px) {
+  .modal-counter {
+    gap: 7px !important;
+  }
+
+  .modal-counter button {
+    width: 32px !important;
+    height: 32px !important;
+    min-width: 32px !important;
+    min-height: 32px !important;
+    border-radius: 11px !important;
+    font-size: 17px !important;
+  }
+
+  #modalQty {
+    width: 24px !important;
+    min-width: 24px !important;
+    height: 32px !important;
+    font-size: 14px !important;
+  }
+
+  .cart-item-actions {
+    gap: 7px !important;
+  }
+
+  .cart-item-actions button {
+    width: 32px !important;
+    height: 32px !important;
+    min-width: 32px !important;
+    min-height: 32px !important;
+    border-radius: 11px !important;
+    font-size: 17px !important;
+  }
+
+  .cart-item-actions output {
+    width: 24px !important;
+    min-width: 24px !important;
+    height: 32px !important;
+    font-size: 14px !important;
+  }
+}

@@ -1,8 +1,9 @@
-JVN Bio Link - botões do carrinho ajustados
+JVN Bio Link - ícones centralizados e menores
 
-Ajuste feito:
-- botões + e - do carrinho ficaram menores, alinhados e mais premium
-- removido visual de bolha grande
-- quantidade centralizada entre os botões
-- ajuste também aplicado no modal de produto
-- restante do projeto mantido limpo
+Ajustes feitos:
+- ícones + e - centralizados dentro dos botões
+- botões diminuídos
+- quantidade centralizada
+- ajuste aplicado no modal do produto
+- ajuste aplicado no carrinho
+- visual menos estourado e mais limpo
